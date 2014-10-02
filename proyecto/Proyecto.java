@@ -16,8 +16,7 @@ public class Proyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        /*KKK 
-        pacho pringao
+        /*parapapapa im love it.
         */
     }
     
